@@ -4,3 +4,5 @@ GitHub演習
 更新2回目
 
 ブランチの演習
+
+conflict
