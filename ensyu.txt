@@ -5,4 +5,4 @@ GitHub演習
 
 ブランチの演習
 
-conflict
+コンフリクト
